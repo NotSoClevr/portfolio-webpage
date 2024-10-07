@@ -1,3 +1,4 @@
+
 html {box-sizing: border-box;
     font-size: 62.5%;
     scroll-behavior: smooth;
@@ -86,6 +87,7 @@ html {box-sizing: border-box;
     padding: 0;
     width: 100%;
     align-items: center;
+    justify-content: center;
     }
     
     .project-title {background-color: #697565;
