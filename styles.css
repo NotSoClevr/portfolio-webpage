@@ -110,9 +110,9 @@ html {box-sizing: border-box;
     img {align-items: center;
     justify-content: center;
   border-radius: 20px;
-         width: 100%;
-        /*max-width: 500px;
-        height: 550px;*/
-         object-fit: cover;
+    width: 100%;
+    max-width: 500px;
+    height: 550px;
+    object-fit: cover;
          
         }
